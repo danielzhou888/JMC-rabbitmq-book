@@ -17,13 +17,16 @@ ERLANG_HOME=C:\Program Files\erl9.2
 
 ![](/assets/1553601097801.png)
 
+
 （2）RabbitMQ环境变量配置
 这里注意，看好你RabbitMQ的安装位置，以及安装的版本，我的版本为3.7.3
 
 ```bash
 RABBITMQ_SERVER=C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.3
 ```
-![Alt text](./1553601121620.png)
+
+![](/assets/1553601121620.png)
+
 在Path中加入
 
 ```bash

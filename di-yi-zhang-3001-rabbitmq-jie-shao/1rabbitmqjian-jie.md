@@ -1,2 +1,0 @@
-&emsp;&emsp;RabbitMQ是一个消息代理：它接受和转发消息。你可以把它想象成一个邮局：当你把你想要发布的邮件放在邮箱中时，你可以确定邮差先生最终将邮件发送给你的收件人。在这个比喻中，RabbitMQ是邮政信箱，邮局和邮递员。 
-&emsp;&emsp;RabbitMQ和邮局的主要区别在于它不处理纸张，而是接受，存储和转发二进制数据块 - 消息。引自（https://www.rabbitmq.com/tutorials/tutorial-one-java.html）官网介绍。 

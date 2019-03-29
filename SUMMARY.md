@@ -8,4 +8,6 @@
   * [4、RabbitMQ 特点](di-yi-zhang-3001-rabbitmq-jie-shao/4rabbitmq-te-dian.md)
   * [5、RabbitMQ 中的概念模型——消息模型](di-yi-zhang-3001-rabbitmq-jie-shao/5rabbitmq-zhong-de-gai-nian-mo-xing-2014-2014-xiao-xi-mo-xing.md)
   * [6、RabbitMQ 基本概念](di-yi-zhang-3001-rabbitmq-jie-shao/6rabbitmq-ji-ben-gai-nian.md)
+* [第二章、 RabbitMQ的安装（Windows版）](di-er-zhang-3001-rabbitmq-de-an-zhuang-ff08-windows-ban-ff09.md)
+  * [1、Erlang的安装](di-er-zhang-3001-rabbitmq-de-an-zhuang-ff08-windows-ban-ff09/1erlangde-an-zhuang.md)
 

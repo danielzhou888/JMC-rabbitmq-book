@@ -14,6 +14,7 @@ net start RabbitMQ
 net stop RabbitMQ
 ```
 
+
 ![](/assets/1553601261740.png)
 
 本文参考：[传送门](https://blog.csdn.net/qq_31634461/article/details/79377256)

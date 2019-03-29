@@ -14,4 +14,6 @@
   * [3、自定义环境变量](di-er-zhang-3001-rabbitmq-de-an-zhuang-ff08-windows-ban-ff09/33001-zi-ding-yi-huan-jing-bian-liang.md)
   * [4、激活rabbitmq\_management](di-er-zhang-3001-rabbitmq-de-an-zhuang-ff08-windows-ban-ff09/43001-ji-huo-rabbitmq-management.md)
   * [5、启动RabbitMQ服务](di-er-zhang-3001-rabbitmq-de-an-zhuang-ff08-windows-ban-ff09/53001-qi-dong-rabbitmq-fu-wu.md)
+* [第三章、RabbitMQ的安装（Linux版）](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09.md)
+  * [1、安装Erlang](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/13001-an-zhuang-erlang.md)
 

@@ -23,4 +23,6 @@
   * [6、开启用户远程访问](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/63001-kai-qi-yong-hu-yuan-cheng-fang-wen.md)
 * [第四章、RabbitMQ测试](di-si-zhang-3001-rabbitmq-ce-shi.md)
   * [1、RabbitMQ测试](di-si-zhang-3001-rabbitmq-ce-shi/1rabbitmqce-shi.md)
+  * [2、Java客户端测试](di-si-zhang-3001-rabbitmq-ce-shi/2javake-hu-duan-ce-shi.md)
+    * [2.1、RabbitMQ的jar包下载](di-si-zhang-3001-rabbitmq-ce-shi/2javake-hu-duan-ce-shi/21rabbitmqde-jar-bao-xia-zai.md)
 

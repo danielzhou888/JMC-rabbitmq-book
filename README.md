@@ -4,7 +4,6 @@ Java Monkey Community RabbitMQ Book Of One Series
 
 
 
-
 ```java
 package com.scmd.rabbitmq;
 

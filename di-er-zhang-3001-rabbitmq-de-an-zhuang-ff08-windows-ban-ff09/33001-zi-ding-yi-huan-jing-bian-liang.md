@@ -1,4 +1,5 @@
 该服务将使用其默认设置正常运行。你可以自定义RabbitMQ环境或编辑配置。 
+
 （1）erl环境变量配置
 ```bash
 ERLANG_HOME=C:\Program Files\erl9.2

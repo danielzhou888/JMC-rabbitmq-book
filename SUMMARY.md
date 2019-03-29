@@ -27,4 +27,5 @@
     * [2.1、RabbitMQ的jar包下载](di-si-zhang-3001-rabbitmq-ce-shi/2javake-hu-duan-ce-shi/21rabbitmqde-jar-bao-xia-zai.md)
     * [2.2、maven项目中添加RabbitMQ依赖](di-si-zhang-3001-rabbitmq-ce-shi/2javake-hu-duan-ce-shi/22mavenxiang-mu-zhong-tian-jia-rabbitmq-yi-lai.md)
     * [2.3、新建SendMQ类，发送端](di-si-zhang-3001-rabbitmq-ce-shi/2javake-hu-duan-ce-shi/233001-xin-jian-sendmq-lei-ff0c-fa-song-duan.md)
+    * [2.4、新建RecvMQ类，接收端](di-si-zhang-3001-rabbitmq-ce-shi/2javake-hu-duan-ce-shi/243001-xin-jian-recvmq-lei-ff0c-jie-shou-duan.md)
 

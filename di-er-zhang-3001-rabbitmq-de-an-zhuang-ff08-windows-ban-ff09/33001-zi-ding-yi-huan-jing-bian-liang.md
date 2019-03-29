@@ -11,6 +11,7 @@ ERLANG_HOME=C:\Program Files\erl9.2
 ```bash
  %ERLANG_HOME%\bin;
 ```
+
 ![](/assets/1553601084040.png)
 
 测试erl配置是否正确，开始-运行-cmd，输入erl，显示如下，证明配置正确 
@@ -32,4 +33,5 @@ RABBITMQ_SERVER=C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.3
 ```bash
 %RABBITMQ_SERVER%\sbin;
 ```
+
 ![](/assets/1553601140918.png)

@@ -16,4 +16,5 @@
   * [5、启动RabbitMQ服务](di-er-zhang-3001-rabbitmq-de-an-zhuang-ff08-windows-ban-ff09/53001-qi-dong-rabbitmq-fu-wu.md)
 * [第三章、RabbitMQ的安装（Linux版）](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09.md)
   * [1、安装Erlang](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/13001-an-zhuang-erlang.md)
+  * [2、安装RabbitMQ](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/23001-an-zhuang-rabbitmq.md)
 

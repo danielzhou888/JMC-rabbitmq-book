@@ -21,4 +21,6 @@
   * [4、开启web管理接口](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/43001-kai-qi-web-guan-li-jie-kou.md)
   * [5、配置RabbitMQ](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/53001-peizhi-rabbitmq.md)
   * [6、开启用户远程访问](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/63001-kai-qi-yong-hu-yuan-cheng-fang-wen.md)
+* [第四章、RabbitMQ测试](di-si-zhang-3001-rabbitmq-ce-shi.md)
+  * [1、RabbitMQ测试](di-si-zhang-3001-rabbitmq-ce-shi/1rabbitmqce-shi.md)
 

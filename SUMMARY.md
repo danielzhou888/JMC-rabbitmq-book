@@ -19,4 +19,5 @@
   * [2、安装RabbitMQ](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/23001-an-zhuang-rabbitmq.md)
   * [3、关于RabbitMQ的一些基本操作](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/33001-guan-yu-rabbitmq-de-yi-xie-ji-ben-cao-zuo.md)
   * [4、开启web管理接口](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/43001-kai-qi-web-guan-li-jie-kou.md)
+  * [5、配置RabbitMQ](di-san-zhang-3001-rabbitmq-de-an-zhuang-ff08-linux-ban-ff09/53001-peizhi-rabbitmq.md)
 

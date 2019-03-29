@@ -7,4 +7,5 @@
   * [3、为何用消息队列](di-yi-zhang-3001-rabbitmq-jie-shao/33001-wei-he-yong-xiao-xi-dui-lie.md)
   * [4、RabbitMQ 特点](di-yi-zhang-3001-rabbitmq-jie-shao/4rabbitmq-te-dian.md)
   * [5、RabbitMQ 中的概念模型——消息模型](di-yi-zhang-3001-rabbitmq-jie-shao/5rabbitmq-zhong-de-gai-nian-mo-xing-2014-2014-xiao-xi-mo-xing.md)
+  * [6、RabbitMQ 基本概念](di-yi-zhang-3001-rabbitmq-jie-shao/6rabbitmq-ji-ben-gai-nian.md)
 

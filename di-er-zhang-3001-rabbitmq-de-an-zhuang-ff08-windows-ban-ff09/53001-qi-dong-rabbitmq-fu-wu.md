@@ -2,6 +2,7 @@
 ```bash
 net start RabbitMQ
 ```
+
 ![](/assets/1553601230093.png)
 
 因为RabbitMQ默认启动的，当键入启动命令时，会出现如下情况，直接关闭RabbitMQ服务，在启动就行
@@ -13,7 +14,6 @@ net start RabbitMQ
 ```bash
 net stop RabbitMQ
 ```
-
 
 ![](/assets/1553601261740.png)
 

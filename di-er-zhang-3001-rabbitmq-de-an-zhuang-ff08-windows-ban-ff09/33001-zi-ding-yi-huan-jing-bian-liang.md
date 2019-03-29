@@ -32,5 +32,4 @@ RABBITMQ_SERVER=C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.3
 ```bash
 %RABBITMQ_SERVER%\sbin;
 ```
-
-![Alt text](./1553601140918.png)
+![](/assets/1553601140918.png)
